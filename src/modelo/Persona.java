@@ -61,6 +61,6 @@ abstract class Persona {
         this.fecha_nacimiento = fecha_nacimiento;
     }
     protected void agregar (){}
-    protected void modificar (){}
+    protected void actualizar (){}
     protected void eliminar (){}
 }
